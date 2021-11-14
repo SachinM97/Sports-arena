@@ -1,8 +1,7 @@
 from club import Club
 import time
 
-# clubs_list = [{'name': 'ABC', 'city': 'LKO', 'address': 'ADDDD', 'timings': '10-18', 'slots': ['10 - 11', '11 - 12', '12 - 13', '13 - 14', '14 - 15', '15 - 16', '16 - 17', '17 - 18']},
-#               {'name': 'Flipkart', 'city': 'Bangalore', 'address': 'asdsdasdas', 'timings': '10-17', 'slots': ['10 - 11', '11 - 12', '12 - 13', '13 - 14', '14 - 15', '15 - 16', '16 - 17']}]
+# clubs_list = [{'name': 'ABC', 'city': 'LKO', 'address': 'ADDDD', 'timings': '10-18', 'slots': ['10 - 11', '11 - 12', '12 - 13', '13 - 14', '14 - 15', '15 - 16', '16 - 17', '17 - 18']}]
 clubs_list = []
 
 
